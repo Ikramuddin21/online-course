@@ -1,0 +1,7 @@
+.cart {
+    width: 200px;
+    line-height: 40px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: inset 0 0 10px lightgray;
+}

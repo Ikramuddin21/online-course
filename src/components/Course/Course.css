@@ -1,0 +1,26 @@
+.course img{
+    height: 220px;
+    width: 280px;
+}
+.course {
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: inset 0 0 10px lightgray;
+}
+.course-info {
+    margin: 25px auto;
+    text-align: center;
+}
+.main-button {
+    height: 35px;
+    width: 130px;
+    border: none;
+    border-radius: 5px;
+    background-color: lightgreen;
+    outline: none;
+}
+.main-button:hover {
+    background-color: white;
+    border: 1px solid lightgreen;
+    outline: none;
+}

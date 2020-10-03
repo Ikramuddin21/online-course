@@ -1,0 +1,19 @@
+.identity {
+    margin-right: 15px;
+}
+.header {
+    background: url('https://i.ibb.co/kyD39pT/1538758489content-bar-6-background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 450px;
+    width: 100%;
+    padding: 80px;
+}
+.header-text {
+    text-align: center;
+    margin-top: 30px;
+}
+.header-text input {
+    width: 40%;
+}
